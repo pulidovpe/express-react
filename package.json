@@ -1,0 +1,37 @@
+{
+  "name": "express-react",
+  "version": "1.0.0",
+  "description": "> Proyecto desarrollado con fines didácticos usando ExpressJs en el back y ReactJs en el front.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "web": "concurrently \"nodemon server.js\" \"webpack -w\" ",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/pulidovpe/express-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "concurrently": "^3.5.1",
+    "webpack": "^4.8.3"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/pulidovpe/express-react/issues"
+  },
+  "homepage": "https://gitlab.com/pulidovpe/express-react#README"
+}
