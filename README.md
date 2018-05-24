@@ -2,7 +2,7 @@
 > Proyecto desarrollado con fines didácticos usando ExpressJs en el back y ReactJs en el front.
 
 ## Screenshots / Capturas de Pantalla
-
+![Express - React](https://lh3.googleusercontent.com/_3m5eNBl6A9NPLp-_nWJ84rO_1nfNNBA4s_kxeF6W1rNyUIfTeW6Mz03gzUg6usAY3LZhNtZAmlG=s600 "Espress - React")
 
 ## Tech-framework used / Tecnologías Usadas
 - Node
