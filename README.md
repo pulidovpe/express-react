@@ -11,6 +11,8 @@
 - Babel
 - React
 - Webpack
+- Nodemon
+- Bootstrap
 
 ## Install / Instalación
 #### OS X, Linux y Windows
@@ -22,13 +24,13 @@ cd login-node
 
 npm install
 
-node server.js
+npm run dev
 ```
 ## Tasks / Lista de Tareas
 - [x] Inicializar repositorio
-- [ ] Subir mis primeros cambios a GitHub
-- [ ] Completar el back-end
-- [ ] Completar el front-end
+- [x] Subir mis primeros cambios a GitHub
+- [x] Completar el back-end
+- [x] Completar el front-end
 
 ## Contribute / Para contribuir
 1. Has un [Fork](https://github.com/pulidovpe/express-react/fork)
@@ -39,7 +41,8 @@ node server.js
 
 ## Credits / Créditos
 En este proyecto, me he guiado del tutorial publicado en esta página:
-[faztweb](http://www.faztweb.com/tutorial/react-nodejs-configuracion-proyecto), propiedad del usuario @github/FaztWeb
+[faztweb](http://www.faztweb.com/tutorial/react-nodejs-configuracion-proyecto), propiedad del usuario @github/FaztWeb 
+También tomé nota de diversos blogs de programación.
 
 ## License / Licencia
 Pulido V.P.E. – @github/pulidovpe – pulidovpe.dev@gmail.com
